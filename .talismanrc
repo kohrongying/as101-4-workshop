@@ -1,0 +1,23 @@
+fileignoreconfig:
+- filename: .env
+  checksum: 5125f1770abd6136407ce4b8fc2181c2b2989ed7d511ebadefa9461f9404c3e4
+- filename: instructions/02_secret_scanning.md
+  checksum: dbd5faeed81730784fc1d836dcd75f17e6560538b13cbe605d1da84ce2bed1e1
+- filename: docker-compose.yml
+  checksum: 1abdb0f36ae215fb20d13ac726a3098a28099b79eaa966132fdd7d1255ec1589
+- filename: web/echo/config.py
+  checksum: 2d11362b9921bc499f104f764c86eb3afb0046332a0e8abd6ed34b4789baf485
+- filename: web/config.py
+  checksum: 5c5ce5353c2c576a05dfcb983ad2a92b64bc7b76c7cd13c71e00eb450c3d1ac1
+- filename: instructions/01_hawkeye.md
+  checksum: 660bd51f85c15fc428b3aa5720f6c41723b912895a7dd9af4d5308d8faf49fd9
+- filename: instructions/03_cicd.md
+  checksum: 9824994cb743afe889e7bdd4617ae907d4b265fe66d2fe53618b086b1ad4c32f
+- filename: instructions/00_setup.md
+  checksum: 8f91adb6bfabe864c025601d10ea5aca725aac64e482ccb90443c3dafb0df799
+- filename: instructions/solutions.md
+  checksum: 0959129a7cc8e37ff00b182aab6af88325f5af673f9f5af1ba8691326f1ab3dc
+- filename: web/echo/static/js/bootstrap.min.js
+  checksum: 0975728d9ac76aa2c4efa747eaaf4b409555accdea42130df939d2717969d128
+- filename: web/echo/static/css/bootstrap.min.css
+  checksum: 64953a35a892679fcacc1df5239f48695802fc524710311fb7d48efe413f3689
